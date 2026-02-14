@@ -46,7 +46,9 @@ h1 {
   font-weight: 500;
   margin-bottom: 24px;
 }
-
+.emoji {
+  font-size: 1.4rem;
+}
 /* ---------- Input & Buttons ---------- */
 input {
   width: 100%;
