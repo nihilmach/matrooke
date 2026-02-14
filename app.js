@@ -40,6 +40,8 @@ startPetals();
 
 function renderPhase1() {
   container.innerHTML = `
+    <h1> شگفتاااا دختره برای اینکه بری مرحله ی بعد باید به سوال زیر پاسخ بدی </h1>
+    <span class="emoji">☀️😂</span>
     <h1>🧐 دوست دارم چی صدات کنم؟</h1>
     <input id="answer" autocomplete="off" />
     <br>
