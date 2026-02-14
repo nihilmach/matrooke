@@ -173,17 +173,17 @@ function renderFinalReveal() {
 
     <div class="book-card">
       <h3> 🥸 😢 وقتی نیچه گریست </h3>
-      <button class="reveal-btn" data-url="YOUR_LINK_1">Listen</button>
+      <button class="reveal-btn" data-url="https://fidibo.com/gift/invite/81098845ba22b5c3e1655fcd9a0168b1">Listen</button>
     </div>
 
     <div class="book-card">
       <h3>🤡 عقاید یک دلقک</h3>
-      <button class="reveal-btn" data-url="YOUR_LINK_2">Listen</button>
+      <button class="reveal-btn" data-url="https://fidibo.com/gift/invite/ccc5e6678e9a62d1f875b33e9cf647d4">Listen</button>
     </div>
 
     <div class="book-card">
       <h3>🌚 ابلوموفم بخون بچه </h3>
-      <button class="reveal-btn" data-url="YOUR_LINK_3">Listen</button>
+      <button class="reveal-btn" data-url="https://book.iranseda.ir/detailsalbum/?VALID=TRUE&g=618921">Listen</button>
     </div>
 
   `;
